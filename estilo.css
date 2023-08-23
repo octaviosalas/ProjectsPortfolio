@@ -36,6 +36,11 @@ html{
     display: flex;
     list-style: none;
 }
+
+#gymPic { 
+    height: 200px;
+ }
+ 
 .contenedor-header header nav ul li a{
     text-align: none;
     color: #fff;
@@ -249,6 +254,8 @@ html{
     position: relative;
     margin-bottom: 30px;
 }
+
+
 .skills .skill .progreso{
     background-color: #1CB698;
     position: absolute;

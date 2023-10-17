@@ -40,6 +40,11 @@ html{
 #gymPic { 
     height: 200px;
  }
+
+ #neiPic { 
+    height: 200px;
+    width: 290px;
+ }
  
 .contenedor-header header nav ul li a{
     text-align: none;

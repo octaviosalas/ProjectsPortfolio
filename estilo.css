@@ -724,3 +724,19 @@ footer .arriba{
         width: 100%;
     }
 }
+
+#underDescription { 
+    font-size: 14px;
+    margin-top: 14px;
+    color: black
+}
+
+#underDescriptionTwo { 
+    font-size: 14px;
+    margin-top: 14px;
+    color: black
+}
+
+#imageTwo { 
+  height: 200px;
+}
